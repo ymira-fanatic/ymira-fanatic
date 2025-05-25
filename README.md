@@ -24,7 +24,6 @@ Right now, I’m diving deep into backend development — APIs, databases, and a
 
 ## 🌱 What I'm up to
 
-- 🧑‍💻 Mastering the art of backend sorcery and bringing my wildest tech ideas to life 🧙‍♂️💡
 - 🛠️ Dreaming up and crafting cool creations in my Hall of Creations to show off my skills and creativity 🛠️🎨
 
 
